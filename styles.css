@@ -35,7 +35,11 @@ html,
       transition: all 0.5s ;
       
     }
-
+    .swiper-wrapper {
+      width: 100%;
+      padding-left: 50px;
+      padding-bottom: 50px;
+    }
     .swiper-slide img {
       display: block;
       width: 100%;
